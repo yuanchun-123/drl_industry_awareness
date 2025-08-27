@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+scikit-learn
+torch
+gym==0.21.0
+stable-baselines3
+tensorboard
